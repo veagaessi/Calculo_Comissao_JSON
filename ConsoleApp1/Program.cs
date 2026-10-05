@@ -53,7 +53,7 @@ class Programa // executa o programa, lê o arquivo JSON, calcula a comissão e 
     {
         try
         {
-            string caminho = "C:\\Users\\hugov\\Desktop\\coisas\\Teste\\ConsoleApp1\\vendas.json";
+            string caminho = "C:\\Users\\hugov\\Desktop\\coisas\\Teste\\CalculoComissao\\ConsoleApp1\\vendas.json";
             
             if (!File.Exists(caminho))
             {
@@ -88,7 +88,7 @@ class Programa // executa o programa, lê o arquivo JSON, calcula a comissão e 
             Console.WriteLine($"Erro: {ex.Message}");
         }
 
-        Console.WriteLine("\nPressione qualquer tecla para sair...");
-        Console.ReadKey();
+        Console.WriteLine("\nPressione enter para sair...");
+        Console.Read();
     }
 }
