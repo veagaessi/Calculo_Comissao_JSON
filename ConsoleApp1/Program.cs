@@ -87,5 +87,8 @@ class Programa // executa o programa, lê o arquivo JSON, calcula a comissão e 
         {
             Console.WriteLine($"Erro: {ex.Message}");
         }
+
+        Console.WriteLine("\nPressione qualquer tecla para sair...");
+        Console.ReadKey();
     }
 }
