@@ -1,0 +1,82 @@
+
+    [ 
+
+        { "vendedor": "João Silva", "ValorVenda": 1200.50 }, 
+
+        { "vendedor": "João Silva", "ValorVenda": 950.75 }, 
+
+        { "vendedor": "João Silva", "ValorVenda": 1800.00 }, 
+
+        { "vendedor": "João Silva", "ValorVenda": 1400.30 }, 
+
+        { "vendedor": "João Silva", "ValorVenda": 1100.90 }, 
+
+        { "vendedor": "João Silva", "ValorVenda": 1550.00 }, 
+
+        { "vendedor": "João Silva", "ValorVenda": 1700.80 }, 
+
+        { "vendedor": "João Silva", "ValorVenda": 250.30 }, 
+
+        { "vendedor": "João Silva", "ValorVenda": 480.75 }, 
+
+        { "vendedor": "João Silva", "ValorVenda": 320.40 }, 
+
+        
+
+        { "vendedor": "Maria Souza", "ValorVenda": 2100.40 }, 
+
+        { "vendedor": "Maria Souza", "ValorVenda": 1350.60 }, 
+
+        { "vendedor": "Maria Souza", "ValorVenda": 950.20 }, 
+
+        { "vendedor": "Maria Souza", "ValorVenda": 1600.75 }, 
+
+        { "vendedor": "Maria Souza", "ValorVenda": 1750.00 }, 
+
+        { "vendedor": "Maria Souza", "ValorVenda": 1450.90 }, 
+
+        { "vendedor": "Maria Souza", "ValorVenda": 400.50 }, 
+
+        { "vendedor": "Maria Souza", "ValorVenda": 180.20 }, 
+
+        { "vendedor": "Maria Souza", "ValorVenda": 90.75 }, 
+
+        
+
+        { "vendedor": "Carlos Oliveira", "ValorVenda": 800.50 }, 
+
+        { "vendedor": "Carlos Oliveira", "ValorVenda": 1200.00 }, 
+
+        { "vendedor": "Carlos Oliveira", "ValorVenda": 1950.30 }, 
+
+        { "vendedor": "Carlos Oliveira", "ValorVenda": 1750.80 }, 
+
+        { "vendedor": "Carlos Oliveira", "ValorVenda": 1300.60 }, 
+
+        { "vendedor": "Carlos Oliveira", "ValorVenda": 300.40 }, 
+
+        { "vendedor": "Carlos Oliveira", "ValorVenda": 500.00 }, 
+
+        { "vendedor": "Carlos Oliveira", "ValorVenda": 125.75 }, 
+
+        
+
+        { "vendedor": "Ana Lima", "ValorVenda": 1000.00 }, 
+
+        { "vendedor": "Ana Lima", "ValorVenda": 1100.50 }, 
+
+        { "vendedor": "Ana Lima", "ValorVenda": 1250.75 }, 
+
+        { "vendedor": "Ana Lima", "ValorVenda": 1400.20 }, 
+
+        { "vendedor": "Ana Lima", "ValorVenda": 1550.90 }, 
+
+        { "vendedor": "Ana Lima", "ValorVenda": 1650.00 }, 
+
+        { "vendedor": "Ana Lima", "ValorVenda": 75.30 }, 
+
+        { "vendedor": "Ana Lima", "ValorVenda": 420.90 }, 
+
+        { "vendedor": "Ana Lima", "ValorVenda": 315.40 } 
+
+    ] 
