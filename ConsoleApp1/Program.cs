@@ -47,7 +47,7 @@ public class CalculoComissao // irá calcular o valor da comissão com base no v
     }
 }
 
-class Programa
+class Programa // executa o programa, lê o arquivo JSON, calcula a comissão e exibe os resultados
 {
     static void Main()
     {
